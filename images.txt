@@ -1,4 +1,4 @@
-zlmediakit
+zlmediakit/zlmediakit:master
 gitblit/gitblit
 tarscloud/framework
 nginx
