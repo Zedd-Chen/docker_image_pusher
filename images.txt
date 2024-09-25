@@ -1,3 +1,4 @@
+tarscloud/tars-node:cpp
 zlmediakit/zlmediakit:master
 gitblit/gitblit
 tarscloud/framework
