@@ -1,3 +1,4 @@
+tarscloud/framework:v2.4.11
 bogem/ftp
 tarscloud/tars-node:full
 tarscloud/tars-node:cpp
